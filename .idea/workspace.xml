@@ -43,7 +43,10 @@
       <updated>1601713899364</updated>
       <workItem from="1601713900569" duration="724000" />
       <workItem from="1601714652006" duration="3221000" />
-      <workItem from="1601776450290" duration="5023000" />
+      <workItem from="1601776450290" duration="5076000" />
+      <workItem from="1604200583982" duration="3678000" />
+      <workItem from="1604577186724" duration="720000" />
+      <workItem from="1605446878661" duration="1053000" />
     </task>
     <task id="LOCAL-00001" summary="简历">
       <created>1601714243371</created>
@@ -87,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601783501525</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="修改打印样式">
+      <created>1601784607001</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601784607001</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,13 +110,14 @@
     <MESSAGE value="更改皮卡丘版本" />
     <MESSAGE value="更改canvas画板" />
     <MESSAGE value="修改样式" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改样式" />
+    <MESSAGE value="修改打印样式" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改打印样式" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="324" y="0" key="CommitChangelistDialog2" timestamp="1601783500548">
+    <state x="324" y="0" key="CommitChangelistDialog2" timestamp="1601784606140">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="324" y="0" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1601783500548" />
+    <state x="324" y="0" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1601784606140" />
     <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1601783301154">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
